@@ -36,4 +36,4 @@ Q33.Write a C program to validate a mobile number . If it has 10 or more digits,
 Q34.Write a C program to assign different ticket prices based on day of the week (weekday/weekend).
 Q35.Write a C program to calculate water bill using slab rates (≤1000 liters free, next 2000 @ ₹5, above @ ₹10 per 1000 liters).
 Q36.Write a C program to display mobile data usage alert – "Low Data", "Half Consumed", or "Data Over" based on usage.
-Q37.Write a C program to Check if vehicle speed exceeds 100 km/h.("Over-speeding! Fine imposed.","Speed iswithin limit").
+Q37.Write a C program to calculate the attendance percentage of a student and determine exam eligibility or not eligibility. 
