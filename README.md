@@ -37,3 +37,41 @@ Q34.Write a C program to assign different ticket prices based on day of the week
 Q35.Write a C program to calculate water bill using slab rates (≤1000 liters free, next 2000 @ ₹5, above @ ₹10 per 1000 liters).
 Q36.Write a C program to display mobile data usage alert – "Low Data", "Half Consumed", or "Data Over" based on usage.
 Q37.Write a C program to calculate the attendance percentage of a student and determine exam eligibility or not eligibility. 
+Q38. Write a C program to print the first digit of a given number.
+Q39. Write a C program to find whether the first digit of a given number is odd or even.
+Q40. Write a C program to check whether the given digit is occurred in a number.
+Q41. Write a C program to count the occurrence of a digit in a number.
+Q42. Write a C program to check whether the digits of a number are in ascending order.
+Q43. Write a C program to check whether the digits of a number are in descending order.
+Q44. Write a C program to swap the first and last digit of a given number.
+Q45. Write a C program to find the frequency of each digit in a given number.
+Q46. Write a C program to find the largest digit in a given number.
+Q47. Write a C program to find the smallest digit in a given number.
+Q48. Write a C program to check whether all digits of a number are even or odd or mixed.
+Q49. Write a C program to find the difference between the sum of even digits and odd digits of a number.
+Q50. Write a C program to remove all zeroes from a given number.
+Q51. Write a C program to calculate the sum of squares and cubes of digits of a number.
+Q52. Write a C program to print each digit of a number in words.
+Q53. Write a C program to print the factorial of a given number N.
+Q54. Write a C program to calculate the sum of digits of a given number.
+Q55. Write a C program to count the number of digits in a given number.
+Q56. Write a C program to print the product of digits of a given number.
+Q57. Write a C program to reverse a given number.
+Q58. Write a C program to check whether a number is palindrome or not.
+Q59. Write a C program to check whether a number is Armstrong number or not.
+Q60. Write a C program to find the GCD of two numbers.
+Q61. Write a C program to find the LCM of two numbers.
+Q62. Write a C program to check whether a given number is prime or not.
+Q63. Write a C program to print all factors of a given number.
+Q64. Write a C program to find the sum of all factors of a given number.
+Q65. Write a C program to check whether a given integer is a perfect square or not.
+Q66. Write a C program to check whether a given number is a Strong Number or not.
+Q67. Write a C program to check whether a given number is a Perfect Number or not.
+Q68. Write a C program to check whether a given number is a Neon Number or not.
+Q69. Write a C program to check whether a given number is a Harshad Number or not.
+Q70. Write a C program to check whether a given number is a Buzz Number or not.
+Q71. Write a C program to check whether a given number is an Automorphic Number or not.
+Q72. Write a C program to check whether a given number is a Magic Number or not.
+Q73. Write a C program to check whether a given integer is a power of 2 or not.
+Q74. Write a C program to multiply two numbers without using * operator.
+Q75. Write a C program to find N power of M (Exponentiation) without using predefined function.
