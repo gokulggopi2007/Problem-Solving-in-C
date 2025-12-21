@@ -75,3 +75,38 @@ Q72. Write a C program to check whether a given number is a Magic Number or not.
 Q73. Write a C program to check whether a given integer is a power of 2 or not.
 Q74. Write a C program to multiply two numbers without using * operator.
 Q75. Write a C program to find N power of M (Exponentiation) without using predefined function.
+Q76. Write a C program to print all the English alphabets in uppercase.
+Q77. Write a C program to print all the English alphabets in lowercase.
+Q78. Write a C program to print lowercase English alphabets in reverse order.
+Q79. Write a C program to print English alphabets that lie between two given alphabets.
+Q80. Write a C program to print vowels and consonants separately from alphabets
+Q81. Write a C program to print ASCII values from A-Z.
+Q82. Write a C program to count the number of 1s and 0s in a binary number.
+Q83. Write a C program to convert decimal to binary number.
+Q84. Write a C program to convert binary to decimal number.
+Q85. Write a C program to convert a charecter from uppercase to lowercase using ASCII Values.
+Q86. Write a C program to print N natural numbers.
+Q87. Write a C program to print whole numbers till N.
+Q88. Write a C program to print odd numbers till N.
+Q89. Write a C program to print even numbers till N.
+Q90. Write a C program to print N natural numbers in reverse.
+Q91. Write a C program to calculate sum of first N natural numbers.
+Q92. Write a C program to print N odd numbers.
+Q93. Write a C program to print N even numbers.
+Q94. Write a C program to calculate sum of even and odd numbers till N.
+Q95. Write a C program to calculate sum of N given numbers.
+Q96. Write a C program to print "Hello World" for N times.
+Q97. Write a C program to print multiplication table of N.
+Q98. Write a C program to calculate sum of multiple positive numbers (Stop if user enters negative number).
+Q99. Write a C program to calculate sum of N positive numbers (Skip the negative number and get another input instead).
+Q100. Write a C program to print all prime numbers from 1 to N.
+Q101. Write a C program to print the first N prime numbers.
+Q102. Write a C program to print all Armstrong numbers between 1 to N.
+Q103. Write a C program to print all Strong numbers between 1 to N.
+Q104. Write a C program to print all Perfect numbers between 1 to N.
+Q105. Write a C program to print Fibonacci series up to a given number limit.
+Q106. Write a C program to print all Buzz numbers between 1 to N.
+Q107. Write a C program to print all Magic numbers between 1 to N.
+Q108. Write a C program to print all numbers between 1 to N which are power of 2.
+Q109. Write a C program to print all numbers between 1 to N which are perfect squares.
+Q110. Write a C program to print all numbers between 1 to N which are perfect cubes.
